@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\DeleteUserTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReqresApiAutomation\\Tests\\DeleteUserTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Base\\TestBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReqresApiAutomation\\Base\\TestBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\PostUserTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReqresApiAutomation\\Tests\\PostUserTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Clients\\ReqresClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReqresApiAutomation\\Clients\\ReqresClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Config\\TestConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReqresApiAutomation\\Config\\TestConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Models\\CreateUserRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReqresApiAutomation\\Models\\CreateUserRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Models\\CreateUserResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReqresApiAutomation\\Models\\CreateUserResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\GetUserTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReqresApiAutomation\\Tests\\GetUserTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\ReqresApiAutomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReqresApiAutomation\\ReqresApiAutomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\PutUserTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReqresApiAutomation\\Tests\\PutUserTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\PatchUserTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReqresApiAutomation\\Tests\\PatchUserTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Models\\UserResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReqresApiAutomation\\Models\\UserResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Models\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\Models\\CreateUserRequest.cs",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Models\\CreateUserRequest.cs",
+              "RelativeToolTip": "ReqresApiAutomation\\Models\\CreateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T11:50:51.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestConfig.cs",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Config\\TestConfig.cs",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\Config\\TestConfig.cs",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Config\\TestConfig.cs",
+              "RelativeToolTip": "ReqresApiAutomation\\Config\\TestConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T11:44:34.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostUserTests.cs",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\PostUserTests.cs",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\Tests\\PostUserTests.cs",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\PostUserTests.cs",
+              "RelativeToolTip": "ReqresApiAutomation\\Tests\\PostUserTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T06:44:42.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Base\\TestBase.cs",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\Base\\TestBase.cs",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Base\\TestBase.cs",
+              "RelativeToolTip": "ReqresApiAutomation\\Base\\TestBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T11:51:01.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteUserTests.cs",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\DeleteUserTests.cs",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\Tests\\DeleteUserTests.cs",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\DeleteUserTests.cs",
+              "RelativeToolTip": "ReqresApiAutomation\\Tests\\DeleteUserTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T13:49:38.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReqresClient.cs",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Clients\\ReqresClient.cs",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\Clients\\ReqresClient.cs",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Clients\\ReqresClient.cs",
+              "RelativeToolTip": "ReqresApiAutomation\\Clients\\ReqresClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T11:44:58.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetUserTests.cs",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\GetUserTests.cs",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\Tests\\GetUserTests.cs",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\GetUserTests.cs",
+              "RelativeToolTip": "ReqresApiAutomation\\Tests\\GetUserTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T12:00:12.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Models\\CreateUserResponse.cs",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\Models\\CreateUserResponse.cs",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Models\\CreateUserResponse.cs",
+              "RelativeToolTip": "ReqresApiAutomation\\Models\\CreateUserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T13:48:06.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PutUserTests.cs",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\PutUserTests.cs",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\Tests\\PutUserTests.cs",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\PutUserTests.cs",
+              "RelativeToolTip": "ReqresApiAutomation\\Tests\\PutUserTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T13:49:50.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReqresApiAutomation.csproj",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\ReqresApiAutomation.csproj",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\ReqresApiAutomation.csproj",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\ReqresApiAutomation.csproj",
+              "RelativeToolTip": "ReqresApiAutomation\\ReqresApiAutomation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-04T14:39:03.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatchUserTests.cs",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\PatchUserTests.cs",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\Tests\\PatchUserTests.cs",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\PatchUserTests.cs",
+              "RelativeToolTip": "ReqresApiAutomation\\Tests\\PatchUserTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T13:50:18.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Models\\UserResponse.cs",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\Models\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Models\\UserResponse.cs",
+              "RelativeToolTip": "ReqresApiAutomation\\Models\\UserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T13:47:29.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

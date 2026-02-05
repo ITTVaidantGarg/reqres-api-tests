@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C601A04F-0553-0DA1-B123-69E2389FBC2B}|ReqresApiAutomation\\ReqresApiAutomation.csproj|c:\\users\\vaidant.garg\\sdet_weekly_assignments\\sdet_vaidantgarg\\assignment-week5\\assignment-week5-task1\\reqresapiautomation\\tests\\deleteusertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C601A04F-0553-0DA1-B123-69E2389FBC2B}|ReqresApiAutomation\\ReqresApiAutomation.csproj|solutionrelative:reqresapiautomation\\tests\\deleteusertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C601A04F-0553-0DA1-B123-69E2389FBC2B}|ReqresApiAutomation\\ReqresApiAutomation.csproj|c:\\users\\vaidant.garg\\.nuget\\packages\\allure.commons\\3.5.0.73\\contentfiles\\any\\netstandard2.0\\allureconfig.template.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C601A04F-0553-0DA1-B123-69E2389FBC2B}|ReqresApiAutomation\\ReqresApiAutomation.csproj|c:\\users\\vaidant.garg\\sdet_weekly_assignments\\sdet_vaidantgarg\\assignment-week5\\assignment-week5-task1\\reqresapiautomation\\base\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C601A04F-0553-0DA1-B123-69E2389FBC2B}|ReqresApiAutomation\\ReqresApiAutomation.csproj|solutionrelative:reqresapiautomation\\base\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C601A04F-0553-0DA1-B123-69E2389FBC2B}|ReqresApiAutomation\\ReqresApiAutomation.csproj|c:\\users\\vaidant.garg\\sdet_weekly_assignments\\sdet_vaidantgarg\\assignment-week5\\assignment-week5-task1\\reqresapiautomation\\reqresapiautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C601A04F-0553-0DA1-B123-69E2389FBC2B}|ReqresApiAutomation\\ReqresApiAutomation.csproj|solutionrelative:reqresapiautomation\\reqresapiautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C601A04F-0553-0DA1-B123-69E2389FBC2B}|ReqresApiAutomation\\ReqresApiAutomation.csproj|c:\\users\\vaidant.garg\\sdet_weekly_assignments\\sdet_vaidantgarg\\assignment-week5\\assignment-week5-task1\\reqresapiautomation\\allureconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C601A04F-0553-0DA1-B123-69E2389FBC2B}|ReqresApiAutomation\\ReqresApiAutomation.csproj|solutionrelative:reqresapiautomation\\allureconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C601A04F-0553-0DA1-B123-69E2389FBC2B}|ReqresApiAutomation\\ReqresApiAutomation.csproj|c:\\users\\vaidant.garg\\sdet_weekly_assignments\\sdet_vaidantgarg\\assignment-week5\\assignment-week5-task1\\reqresapiautomation\\tests\\getusertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C601A04F-0553-0DA1-B123-69E2389FBC2B}|ReqresApiAutomation\\ReqresApiAutomation.csproj|solutionrelative:reqresapiautomation\\tests\\getusertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Base\\TestBase.cs",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\Base\\TestBase.cs",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Base\\TestBase.cs",
+              "RelativeToolTip": "ReqresApiAutomation\\Base\\TestBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:52:13.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "allureConfig.Template.json",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\.nuget\\packages\\allure.commons\\3.5.0.73\\contentFiles\\any\\netstandard2.0\\allureConfig.Template.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\allure.commons\\3.5.0.73\\contentFiles\\any\\netstandard2.0\\allureConfig.Template.json",
+              "ToolTip": "C:\\Users\\vaidant.garg\\.nuget\\packages\\allure.commons\\3.5.0.73\\contentFiles\\any\\netstandard2.0\\allureConfig.Template.json [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\allure.commons\\3.5.0.73\\contentFiles\\any\\netstandard2.0\\allureConfig.Template.json [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-04T14:58:55.75Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteUserTests.cs",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\DeleteUserTests.cs",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\Tests\\DeleteUserTests.cs",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\DeleteUserTests.cs",
+              "RelativeToolTip": "ReqresApiAutomation\\Tests\\DeleteUserTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:52:55.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReqresApiAutomation.csproj",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\ReqresApiAutomation.csproj",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\ReqresApiAutomation.csproj",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\ReqresApiAutomation.csproj",
+              "RelativeToolTip": "ReqresApiAutomation\\ReqresApiAutomation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-04T14:59:18.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "allureConfig.json",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\allureConfig.json",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\allureConfig.json",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\allureConfig.json",
+              "RelativeToolTip": "ReqresApiAutomation\\allureConfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-04T14:51:29.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetUserTests.cs",
+              "DocumentMoniker": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\GetUserTests.cs",
+              "RelativeDocumentMoniker": "ReqresApiAutomation\\Tests\\GetUserTests.cs",
+              "ToolTip": "C:\\Users\\vaidant.garg\\SDET_Weekly_Assignments\\sdet_vaidantgarg\\Assignment-week5\\Assignment-week5-task1\\ReqresApiAutomation\\Tests\\GetUserTests.cs",
+              "RelativeToolTip": "ReqresApiAutomation\\Tests\\GetUserTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:47:48.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
